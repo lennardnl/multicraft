@@ -1,0 +1,12 @@
+{
+  "name": "lennardnl/multicraft-api",
+  "description": "Multicraft API client library for PHP",
+  "homepage": "http://www.multicraft.org/",
+  "authors": [
+    {
+      "name": "xhost.ch GmbH",
+      "email": "info@multicraft.org"
+    }
+  ]
+
+}
